@@ -20,6 +20,13 @@ Telefon.convert(1235551234, country_code: 1, extension: 1343, delimiter: '.')
 # => +1.123.555.1234 x 1343
 ```
 
+## Contributing
+
+- Fork the project.
+- Use `make install` to install dependencies.
+- Use `make test` to run the test suite.
+- Create a pull request with your changes.
+
 ## Installation
 
 ```
